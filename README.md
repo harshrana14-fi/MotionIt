@@ -13,14 +13,7 @@
 
 ## 🎬 Demo
 
-<!-- 
-========================================================================
-🎥 DEMO VIDEO PLACEHOLDER
-Insert your YouTube / Loom link or raw video file path below:
-========================================================================
--->
-
-*(Demo Video coming soon - Add your video link here)*
+<video src="https://github.com/harshrana14-fi/MotionIt/main/assets/MotionIt_vid.mp4" controls width="600"></video>
 
 <br />
 
