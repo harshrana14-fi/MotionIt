@@ -45,7 +45,7 @@ Motion_It is built on a modern, decoupled architecture ensuring the heavy AI wor
 - **Backend API:** Node.js, Express.js
 - **Database:** MongoDB (User Auth & Generation History)
 - **Core AI Engine:** 
-  - **[MuseTalk](https://github.com/Tencent/MuseTalk):** A real-time, high-quality audio-driven lip-syncing model used to manipulate the visual frames.
+  - **[MuseTalk](https://github.com/TMElyralab/MuseTalk):** A real-time, high-quality audio-driven lip-syncing model used to manipulate the visual frames.
   - **Chatterbox:** Used for driving natural text-to-speech audio pipelines.
 
 ## 📦 Getting Started Locally
