@@ -13,7 +13,7 @@
 
 ## 🎬 Demo
 
-<video src="https://github.com/harshrana14-fi/MotionIt/main/assets/MotionIt_vid.mp4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/e5941684-b76b-4c8d-bbaa-6bbf99edf1e8" controls width="600"></video>
 
 <br />
 
